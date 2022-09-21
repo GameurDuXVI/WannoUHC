@@ -1,0 +1,84 @@
+name: WannoUHC
+version: 0.89
+author: GameurDuXVI
+main: fr.gameurduxvi.uhc.Main
+depend: [PandoraAPI]
+commands:
+  uhc:
+    description: One Peace UHC Main Command
+    permission: 
+  commandes:
+    description: WannoUHC Command
+    permission: 
+  doc:
+    description: WannoUHC Command
+    permission: 
+  gdoc:
+    description: WannoUHC Command
+    permission: 
+  final_heal:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  fh:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  revive:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  pause:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  start:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  end:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  roles:
+    description: WannoUHC Command
+    permission: 
+  r:
+    description: WannoUHC Command
+    permission: 
+  spectator:
+    description: WannoUHC Command
+    permission: uhc.cmd 
+  debug:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  pregen:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  info:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  world:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  config:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  trilog:
+    description: WannoUHC Command
+    permission: 
+  texturepack:
+    description: WannoUHC Command
+    permission: 
+  testpack:
+    description: WannoUHC Command
+    permission: 
+  particles:
+    description: WannoUHC Command
+    permission:
+  testparticles:
+    description: WannoUHC Command
+    permission:
+  chat:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  listtexturepack:
+    description: WannoUHC Command
+    permission: uhc.cmd
+  cwhitelist:
+    description: WannoUHC Command
+    permission: uhc.cmd
